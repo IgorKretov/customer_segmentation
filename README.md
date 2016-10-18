@@ -1,5 +1,5 @@
-# Creating Customer Segments Through Unsupervised Learning
-In this project, we are going to analyze a dataset containing wholesale information on various customers and their annual spending amounts (reported in monetary units) of diverse product categories. One goal is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so will empower the distributor with the ability to better structure their service to meet the needs of each customer such as i.e. delivery frequency.
+# Customer Segments Through Unsupervised Learning
+In this project, a dataset containing wholesale information on various customers and their annual spending amounts (reported in monetary units) of diverse product categories is analyzed. The goal is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so will empower the distributor with the ability to better structure their service to meet the needs of each customer such as i.e. delivery frequency.
 
 ### Install
 
