@@ -10,13 +10,11 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+### Summary
 
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+This python code shows a descriptive way of how to cluster customer data using unsupervised machine learning tools to recommend or improve shipping frequency. To best follow through the report, it is helpful to install [iPython notebook](http://ipython.org/notebook.html).
 
-### Code
-
-Template code is provided in the notebook `customer_segments.ipynb` notebook file. Additional supporting code can be found in `renders.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+If you'd like to only view the report, feel free to check out the `customer_segments.html` file.
 
 ### Run
 
